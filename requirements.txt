@@ -8,11 +8,14 @@ scipy
 matplotlib
 seaborn
 
-# Hugging Face ecosystem for Transformers and datasets (if still needed for ML part)
+# Hugging Face ecosystem for Transformers and datasets
 datasets
 transformers
 accelerate
 peft
 
-# Core ML framework (if still needed for ML part)
+# Core ML framework
 torch
+
+# For Jupyter Notebook support
+ipykernel
