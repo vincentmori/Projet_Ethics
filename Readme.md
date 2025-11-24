@@ -9,3 +9,4 @@ Les modèles fine-tunés sont testés sur plusieurs exemples afin d’observer l
 Enfin, les décisions du modèle choisi sont expliquées à l’aide des outils XAI LIME et SHAP. Ces méthodes permettent de visualiser l’importance des variables dans les prédictions du modèle, de comprendre l’impact des biais introduits et de rendre les décisions plus transparentes.
 Ce projet illustre donc l’ensemble du cycle : création de biais, entraînement de modèles, comparaison des approches de fine-tuning et explication des décisions grâce à des outils d’IA explicable.
 
+Lancé le premier notebook pour générer le dataset biaisés
